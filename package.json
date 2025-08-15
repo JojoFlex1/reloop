@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fireblocks/ts-sdk": "^11.1.0",
+    "fireblocks-sdk": "^5.38.0"
+  }
+}
